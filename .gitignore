@@ -1,2 +1,4 @@
 .idea/
 imagenet-vgg-verydeep-19.mat
+vgg19_weights_tf_dim_ordering_tf_kernels.h5
+
